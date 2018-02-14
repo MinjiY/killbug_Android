@@ -1,0 +1,1 @@
+$(ApplicationName)=AndroidClient;$(AndroidAppLibName)=AndroidClient;$(projectname)=AndroidClient.Packaging;$(androidapilevel)=android-19;

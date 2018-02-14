@@ -1,0 +1,9 @@
+C:\work\AndroidClient\ARM\Release\AndroidClient.apk.recipe
+C:\work\AndroidClient\ARM\Release\AndroidClient.apk.recipe.merged
+C:\work\AndroidClient\ARM\Release\AndroidClient.apk
+C:\work\AndroidClient\ARM\Release\AndroidClient.lastsuccessfuldeploy
+C:\work\AndroidClient\AndroidClient\AndroidClient.Packaging\ARM\Release\GenerateAndroidAntScript.incremental
+C:\work\AndroidClient\ARM\Release\Package\libs\armeabi-v7a\libAndroidClient.so
+C:\work\AndroidClient\ARM\Release\Package\build.xml
+C:\work\AndroidClient\ARM\Release\Package\project.properties
+C:\work\AndroidClient\ARM\Release\Package\androidmanifest.xml

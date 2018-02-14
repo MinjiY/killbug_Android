@@ -1,0 +1,12 @@
+C:\work\AndroidClient\x86\Debug\AndroidClient.apk.recipe
+C:\work\AndroidClient\x86\Debug\AndroidClient.apk.recipe.merged
+C:\work\AndroidClient\x86\Debug\Package\libs\x86\libAndroidClient.so
+C:\work\AndroidClient\x86\Debug\Package\libs\x86\gdbserver
+C:\work\AndroidClient\x86\Debug\Package\libs\x86\libgnustl_static.a
+C:\work\AndroidClient\x86\Debug\Package\res\values\strings.xml
+C:\work\AndroidClient\x86\Debug\Package\build.xml
+C:\work\AndroidClient\x86\Debug\Package\project.properties
+C:\work\AndroidClient\x86\Debug\Package\androidmanifest.xml
+C:\work\AndroidClient\x86\Debug\AndroidClient.apk
+C:\work\AndroidClient\x86\Debug\AndroidClient.lastsuccessfuldeploy
+C:\work\AndroidClient\AndroidClient\AndroidClient.Packaging\x86\Debug\GenerateAndroidAntScript.incremental
